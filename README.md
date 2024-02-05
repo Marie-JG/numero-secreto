@@ -1,1 +1,1 @@
-Este juego se trata de solicitar al usuario adivinar un número secreto aleatorio
+Este juego se trata de solicitar al usuario adivinar un número secreto del 1 al 10 que se elige de forma aleatoria, brindando pistas sobre si es mayor o menor e informando al final en qué cantidad de intentos se adivinó 
